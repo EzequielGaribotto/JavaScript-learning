@@ -1,4 +1,4 @@
-// Enunciado: Extrae los valores de un array en variables individuales usando destructuring.
+// Enunciado: desestructuraArrayEnVariables - Extrae los valores de un array en variables individuales usando destructuring.
 // Este ejemplo muestra cómo desestructurar un array en variables separadas.
 const numeros = [10, 20, 30];
 

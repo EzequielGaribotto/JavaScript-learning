@@ -1,4 +1,4 @@
-// Enunciado: Intercambia el valor de dos variables usando destructuring.
+// Enunciado: intercambiaValoresConDestructuring - Intercambia el valor de dos variables usando destructuring.
 // Este ejemplo muestra cómo intercambiar valores de dos variables de forma sencilla con destructuring.
 let a = 1, b = 2;
 
