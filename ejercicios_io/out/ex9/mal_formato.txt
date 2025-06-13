@@ -1,0 +1,32 @@
+Item 1:
+nombre: Luis
+edad: 30
+
+Item 2:
+nombre: 
+edad: 45
+
+Item 3:
+nombre: Andrea
+edad: 
+
+Item 4:
+nombre: Carlos
+edad: veintidós
+
+Item 5:
+nombre: María
+edad: 27
+
+Item 6:
+nombre: 42
+edad: 
+
+Item 7:
+nombre: 
+edad: 
+
+Item 8:
+nombre: José
+edad: 31
+

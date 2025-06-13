@@ -1,0 +1,42 @@
+[
+  {
+    "producto": "Cuaderno",
+    "precio": 3.5
+  },
+  {
+    "producto": "Bolígrafo",
+    "precio": 1.2
+  },
+  {
+    "producto": "Mochila",
+    "precio": 25.0
+  },
+  {
+    "producto": "Calculadora",
+    "precio": 12.99
+  },
+  {
+    "producto": "Lápiz",
+    "precio": 0.6
+  },
+  {
+    "producto": "Goma de borrar",
+    "precio": 0.8
+  },
+  {
+    "producto": "Regla",
+    "precio": 1.0
+  },
+  {
+    "producto": "Tijeras",
+    "precio": 2.5
+  },
+  {
+    "producto": "Pegamento",
+    "precio": 1.75
+  },
+  {
+    "producto": "Carpeta",
+    "precio": 2.2
+  }
+]

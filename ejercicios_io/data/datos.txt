@@ -1,0 +1,11 @@
+nombre: Laura
+edad: 29
+ciudad: Valencia
+
+nombre: Pedro
+edad: 34
+ciudad: Sevilla
+
+nombre: Marta
+edad: 22
+ciudad: Bilbao

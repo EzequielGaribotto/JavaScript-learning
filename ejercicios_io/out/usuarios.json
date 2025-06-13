@@ -1,0 +1,502 @@
+[
+  {
+    "nombre": "Lucía",
+    "edad": "47",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "43",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "48",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "31",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "32",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "62",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "24",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "23",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "26",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "26",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Pedro",
+    "edad": "34",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "25",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "28",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "51",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "21",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "21",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "55",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "41",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "61",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Luis",
+    "edad": "43",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "46",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "39",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Pedro",
+    "edad": "43",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "53",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "41",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Luis",
+    "edad": "56",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Pedro",
+    "edad": "30",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "44",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "26",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "43",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "35",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "63",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "42",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Luis",
+    "edad": "49",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "28",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "36",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "63",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "51",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "57",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Luis",
+    "edad": "18",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "43",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Ana",
+    "edad": "19",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "60",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Pedro",
+    "edad": "26",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "19",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "22",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "55",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "53",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Luis",
+    "edad": "38",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "64",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "47",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "18",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "42",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "25",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "52",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "23",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "59",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "49",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Pedro",
+    "edad": "54",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "58",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "59",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "25",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "35",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "32",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "59",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "64",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "19",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "61",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "45",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Ana",
+    "edad": "21",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "64",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "54",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "61",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "23",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Luis",
+    "edad": "59",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "24",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "54",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "46",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "63",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "46",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "28",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Ana",
+    "edad": "39",
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "42",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "47",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "56",
+    "ciudad": "Toledo"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "43",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Lucía",
+    "edad": "58",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Pedro",
+    "edad": "56",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": "36",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "39",
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "63",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "20",
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Elena",
+    "edad": "19",
+    "ciudad": "Salamanca"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "19",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Marta",
+    "edad": "20",
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "31",
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "26",
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Marcos",
+    "edad": "18",
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Jorge",
+    "edad": "32",
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Sofía",
+    "edad": "36",
+    "ciudad": "Toledo"
+  }
+]

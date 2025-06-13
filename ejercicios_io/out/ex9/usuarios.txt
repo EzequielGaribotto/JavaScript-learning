@@ -1,0 +1,15 @@
+Item 1:
+nombre: Lucía
+edad: 28
+ciudad: Madrid
+
+Item 2:
+nombre: Iván
+edad: 32
+ciudad: Sevilla
+
+Item 3:
+nombre: Rosa
+edad: 21
+ciudad: Valencia
+

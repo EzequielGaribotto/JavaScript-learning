@@ -1,0 +1,14 @@
+{
+  "name": "conversor-universal",
+  "version": "1.0.0",
+  "description": "Conversor universal de formatos",
+  "main": "io_ex9.js",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
